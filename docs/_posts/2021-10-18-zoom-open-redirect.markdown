@@ -6,7 +6,7 @@ permalink: ./2021-10-18-zoom-open-redirect
 category: update
 ---
 
-#Zoom: open redirect Single Sign On
+# Zoom: open redirect Single Sign On
 
 When signing on to zoom via the single sign in option, it is possible to cause an open redirect by terminating a real domain with a /, This can be used to serve fairly convincing fake login pages as the user would expect to be asked for their login details for their organisation after pressing sign in
 
