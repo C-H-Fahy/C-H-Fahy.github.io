@@ -10,5 +10,5 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-#Zoom: Open Redirect Single Sign On
+# Zoom: Open Redirect Single Sign On
 [2021-10-18T16:13:00Z](https://www.chfahy.com/2021/10/zoom-open-redirect-single-sign-on.html)
