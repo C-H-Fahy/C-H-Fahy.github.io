@@ -12,9 +12,9 @@ When signing on to zoom via the single sign in option, it is possible to cause a
 
 Normally, Zoom requires that you request a "Vanity URL" from them to put in this "domain" box,these domains are in a strange format, and require some type of verification, presumably to prevent such social engineering attacks. This open redirect partially subverts that control.
 
-![Zoom SSO sign in page with "example.com/" in box](2021-10-18-zoom-open-redirect-image0.png)
+![Zoom SSO sign in page with "example.com/" in box](/assets/2021-10-18-zoom-open-redirect-image0.png)
 
-![Example webpage post redirect](2021-10-18-zoom-open-redirect-image1.png)
+![Example webpage post redirect](/assets/2021-10-18-zoom-open-redirect-image1.png)
 
 Zoom(desktop) client version 5.8.1 (1435)
 
