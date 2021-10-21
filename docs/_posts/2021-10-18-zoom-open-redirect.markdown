@@ -10,7 +10,7 @@ category: update
 
 When signing on to zoom via the single sign in option, it is possible to cause an open redirect by terminating a real domain with a /, This can be used to serve fairly convincing fake login pages as the user would expect to be asked for their login details for their organisation after pressing sign in
 
-Normally, Zoom requires that you request a "Vanity URL" from them to put in this "domain" box,[these domains are in a strange format, and require some type of verification](https://support.zoom.us/hc/en-us/articles/215062646-Guidelines-for-Vanity-URL-requests?mobile_site=true), presumably to prevent such social engineering attacks. This open redirect partially subverts that control.
+Normally, Zoom requires that you request a "Vanity URL" from them to put in this "domain" box,[these domains are in a strange format, and require some type of verification](https://support.zoom.us/hc/en-us/articles/201363233-Customizing-branding-settings-for-your-vanity-URL), presumably to prevent such social engineering attacks. This open redirect partially subverts that control.
 
 ![Zoom SSO sign in page with "example.com/" in box](/assets/2021-10-18-zoom-open-redirect-image0.png)
 
