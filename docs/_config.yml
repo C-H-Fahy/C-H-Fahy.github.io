@@ -28,7 +28,7 @@ twitter_username: C_H_Fahy
 github_username:  c-h-fahy
 
 # Build settings
-theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
