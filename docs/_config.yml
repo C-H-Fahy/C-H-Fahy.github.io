@@ -21,7 +21,6 @@
 title: chfahy
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  [Home](https://chfahy.com/)
   This is a blog for hosting random stuff
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://chfahy.com" # the base hostname & protocol for your site, e.g. http://example.com
