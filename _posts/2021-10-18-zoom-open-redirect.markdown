@@ -2,7 +2,7 @@
 title:  "Zoom: open redirect Single Sign On"
 date:   2021-10-18T16:13:00Z
 permalink: ./2021-10-18-zoom-open-redirect
-category: update
+categories: Blog
 ---
 
 # Zoom: open redirect Single Sign On
