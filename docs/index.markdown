@@ -6,7 +6,7 @@ layout: default
 Github: [https://github.com/C-H-Fahy](https://github.com/C-H-Fahy)\
 Mastodon: [https://infosec.exchange/@chfahy](https://infosec.exchange/@chfahy)\
 Linkedin: [https://www.linkedin.com/in/chfahy](https://www.linkedin.com/in/chfahy)\
-Twitter: [https://twitter.com/C\_H\_Fahy](https://twitter.com/C_H_FAHY)\
+Twitter: [https://twitter.com/C\_H\_Fahy](https://twitter.com/C_H_FAHY)
 
 # Zoom: Open Redirect Single Sign On
 When signing on to zoom via the single sign in option, it is possible to cause an open redirect by terminating a real domain with a /, This can be used to serve fairly convincing fake login pages as the user would expect to be asked for their login details for their organisation after pressing sign in
