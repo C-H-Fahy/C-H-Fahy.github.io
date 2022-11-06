@@ -3,8 +3,6 @@ layout: default
 ---
 
 # Other platforms
-These are some of the platforms I'm on
-
 Github: [https://github.com/C-H-Fahy](https://github.com/C-H-Fahy)
 Mastodon: [https://infosec.exchange/@chfahy](https://infosec.exchange/@chfahy)
 Linkedin: [https://www.linkedin.com/in/chfahy](https://www.linkedin.com/in/chfahy)
