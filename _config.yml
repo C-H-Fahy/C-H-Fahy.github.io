@@ -62,6 +62,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
+    - label: "linkedin"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.linkedin.com/in/chfahy/"
     - label: "Mastodon"
       icon: "fas fa-fw fa-link"
       url: "https://infosec.exchange/@chfahy"
@@ -72,18 +75,18 @@ author:
 
 footer:
   links:
-  links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
+    - label: "linkedin"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.linkedin.com/in/chfahy/"
     - label: "Mastodon"
       icon: "fas fa-fw fa-link"
       url: "https://infosec.exchange/@chfahy"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
-
-
 defaults:
   # _posts
   - scope:
