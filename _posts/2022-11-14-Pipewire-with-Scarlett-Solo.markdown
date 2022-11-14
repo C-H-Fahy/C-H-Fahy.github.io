@@ -1,6 +1,6 @@
 ---
 title:  "Pipewire with Scarlett Solo"
-date:   2022-11-14T13:19:30Z
+date:   2022-11-14
 permalink: ./2022-11-14-Pipewire-with-Scarlett-Solo
 categories: Blog
 ---
