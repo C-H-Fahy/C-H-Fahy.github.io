@@ -12,7 +12,7 @@ and tries to treat it as a stereo source.
 
 This is usually not ideal, as the left source on the Solo is an XLR input while the right source is a AUX port, and it is unlikely that you want your XLR input playing only on the left side when the audio is recorded with an application like OBS or Audacity. Some applications like Discord automatically map Stereo to Mono but this may come at reduced quality.
 
-In order to fix this, you it is likely that you will want to create a loopback device that takes the left channel of the Solo and turns it into a single audio source.
+In order to fix this,  it is likely that you will want to create a loopback device that takes the left channel of the Solo and turns it into a single audio source.
 
 The [pipewire docs](https://gitlab.freedesktop.org/pipewire/pipewire/-/wikis/Virtual-Devices#virtual-mono-source) describe how to do this for some devices, however the device name of the connected Solo is determined by a string that is tied to that unique device.
 
@@ -38,7 +38,6 @@ and add under context.modules = [
                 }
             }
     }
-]
 ```
 Replacing XXXXXXXXXXXXXX with the string listed listed beside device.serial = "Focusrite\_Scarlett\_Solo\_USB\_  after doing pactl list sources.
 
@@ -49,4 +48,5 @@ One thing remains consistent with audio with Linux and that is that it is always
 
 Please feel free to contact me to tell me if you find a better way of doing this.
 #### Corrections/Edits:
-None
+
+2022-11-14T18:41:55: spag
