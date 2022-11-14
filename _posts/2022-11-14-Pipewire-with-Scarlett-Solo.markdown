@@ -41,7 +41,8 @@ and add under context.modules = [
 ```
 Replacing XXXXXXXXXXXXXX with the string listed listed beside device.serial = "Focusrite\_Scarlett\_Solo\_USB\_  after doing pactl list sources.
 
-And then you should be able to select the "Scarlett Left" option and have mono audio be recorded by default. 
+And then you should be able to select the "Scarlett Left" option and have mono audio be recorded by default after restarting pipewire with
+```systemctl restart pipewire --user```
 
 
 One thing remains consistent with audio with Linux and that is that it is always difficult to get working, and some applications will just decide not to work anyway, but I hope this guide manages to help someone.
