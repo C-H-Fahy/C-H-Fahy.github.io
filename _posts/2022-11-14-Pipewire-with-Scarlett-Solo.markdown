@@ -53,4 +53,5 @@ Please feel free to contact me to tell me if you find a better way of doing this
 #### Corrections/Edits:
 
 2022-11-14T18:41:55: spag
+
 2022-12-13T18:09:00: corrected missing /pipewire.conf
