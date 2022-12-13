@@ -20,7 +20,7 @@ In order to find the string you can do
 ```
 $ pactl list sources
 ```
-and then create a config file for pipewire by copying /usr/share/pipewire to /etc/pipewire/pipewire.conf
+and then create a config file for pipewire by copying /usr/share/pipewire/pipewire.conf to /etc/pipewire/pipewire.conf
 
 and add under context.modules = [
 ```
@@ -53,3 +53,4 @@ Please feel free to contact me to tell me if you find a better way of doing this
 #### Corrections/Edits:
 
 2022-11-14T18:41:55: spag
+2022-12-13T18:09:00: corrected missing /pipewire.conf
